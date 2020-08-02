@@ -92,7 +92,7 @@ ENV/
 .remote-sync.json
 
 # weights
-weights/
+# weights/
 
 #DS_Store
 .DS_Store
@@ -132,8 +132,8 @@ ssd.pytorch/
 
 # some datasets
 data/VOCdevkit/
-data/coco/images/
-data/coco/annotations/
+# data/coco/images/
+# data/coco/annotations/
 ap_data.pkl
 # results/
 logs/
@@ -149,8 +149,8 @@ train.sh
 img/
 scripts/aws-ohio/
 scripts/aws3/
-data/config_dev.py
-data/coco/
+# data/config_dev.py
+# data/coco/
 data/sbd/
 
 vid/
