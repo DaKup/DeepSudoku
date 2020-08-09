@@ -2,6 +2,8 @@
 
 (not actively maintained)
 
+feel free to use the dataset
+
 Modified [yolact (real-time instance segmentation network)](https://github.com/dbolya/yolact) for sudoku puzzles.
 
 
